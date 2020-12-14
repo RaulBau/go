@@ -1,4 +1,4 @@
-package main
+package main7
 
 import (
 	"fmt"
@@ -43,7 +43,7 @@ func leeArchivo() {
 	fileName := "prueba.txt"
 
 	//Se leen los datos del  archivo
-	datos, err := ioutil.leeArchivo("prueba.txt")
+	datos, err := ioutil.ReadFile("prueba.txt")
 	if err != nil {
 		log.Panicf("Error leyendo los datos del archivo: %s", err)
 	}

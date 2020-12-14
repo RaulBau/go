@@ -1,0 +1,1 @@
+Este es un archivo de pruebas para el sistema de archivos de GO.

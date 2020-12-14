@@ -1,4 +1,4 @@
-package main
+package main2
 
 import "fmt"
 
@@ -9,8 +9,7 @@ func main() {
 
 	if( dato < cmp ) {
 		fmt.Printf("dato es menor que %d", cmp)
-	 }
-	 else{
+	 } else{
 		fmt.Printf("dato es mayor que %d", cmp)
 	 }
 }

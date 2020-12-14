@@ -1,7 +1,0 @@
-3) Sintaxis básica ("Hola Mundo")
-
-4) Estructuras de control, Funciones y manejo de archivos, ejemplos
-
-5) Interacción con Bases de Datos, ejemplos
-
-6) Diseño de Interfaces (Interacción), ejemplos
